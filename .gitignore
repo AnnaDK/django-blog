@@ -2,3 +2,4 @@
 *.pyc
 .~gitpod
 _pycache_/
+env.py
